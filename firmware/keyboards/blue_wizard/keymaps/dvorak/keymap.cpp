@@ -32,8 +32,8 @@ std::array<std::array<Key, MATRIX_COLS>, MATRIX_ROWS> matrix =
         // right hand
          KC_F9, KC_F10,  KC_F11,  KC_F12, KC_PSCR, KC_SLCK, KC_PAUS, TG(L_NUM), KC_SPC,
          KC_6,    KC_7,    KC_8,    KC_9,    KC_0, KC_MINS,
-         KC_F,    KC_G,    KC_C,    KC_R,    KC_L, KC_BSLS,
-         KC_D,    KC_H,    KC_T,    KC_N, KC_S, KC_SLSH,
+         KC_F,    KC_G,    KC_C,    KC_R,    KC_L, KC_SLSH,
+         KC_D,    KC_H,    KC_T,    KC_N, KC_S, KC_BSLS,
          KC_B,    KC_M, KC_W,  KC_V, KC_Z, KC_RSFT,
               KC_UP, KC_DOWN, KC_LBRC, KC_RBRC,
         // right thumb
